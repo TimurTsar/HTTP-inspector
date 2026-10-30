@@ -14,7 +14,7 @@ Lib: "requests" for HTTP-requests, "time" for counting time
 How-to-use instruction:
 
 Clone this repository:
-- git clone REPOSITORY_URL
+- git clone [REPOSITORY_URL](https://github.com/TimurTsar/HTTP-inspector) (just URL)
 
 Install the required library:
 - python -m pip install requests
